@@ -3,7 +3,7 @@ Rails.application.routes.draw do
 
 
 
-root to: 'pages#home'
+root 'pages#home'
 
 resources :ratings, only: :update
 end
