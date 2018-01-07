@@ -8,17 +8,7 @@ git_source(:github) do |repo_name|
 end
 
 
-#AJouteeeeeeeeeeeeee 
-group :development, :test do
-gem 'sqlite3'
-end
-
-group :production do
-gem 'pg'
-gem 'rails_12factor'
-end
- 
-gem 'sass-rails', '~> 5.0'
+#AJouteeeeeeeeeeeeee  
 
 #AJouteeeeeeeeeeeeee
 
