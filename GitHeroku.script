@@ -1,0 +1,7 @@
+bundle install
+bundle update
+rake assets:precompile
+git add -A
+git commit -m "Update"
+git push
+git push heroku master 
