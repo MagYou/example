@@ -18,6 +18,7 @@ gem 'pg'
 end 
 
 
+gem 'jquery-rails'
 
 #AJouteeeeeeeeeeeeee
 
